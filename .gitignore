@@ -1,5 +1,5 @@
 .DS_Store
 ./inventory.db
-./Jenkinsfile
-./getPackagesAndStartService.sh
+Jenkinsfile
+getPackagesAndStartService.sh
 *.db
